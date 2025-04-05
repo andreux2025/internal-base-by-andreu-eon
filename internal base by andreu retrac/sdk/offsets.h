@@ -8,3 +8,4 @@ namespace Offsets
 	int GNames = 0x0804F780;
 	int GWorld = 0x08155D80;
 }
+
